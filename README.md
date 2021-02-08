@@ -1,4 +1,4 @@
-# data-analytics-case-study
+# Case Study - Data Analytics - Zeppelin GmbH
 
 ### Intro
 Team Data Analytics provides data science and machine learning solutions to Zeppelin colleagues and customers. In order to give you an impression of our work and to see if you are a good match, we have prepared the following task based on one of our actual use cases. Please complete the task and be prepared to present your results in a short presentation (max. 15 min). Happy hacking!
