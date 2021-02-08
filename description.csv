@@ -1,0 +1,35 @@
+name,example,description
+bh,1975.0,total business hours of the machine
+refill,10.0,amount of oil in liters that was refilled after extraction
+nitration,12.0,nitration of the oil in percent
+oxidation,24.0,oxidation of the oil in percent
+senr,5,"encoded serial number of the machine, this identifies a machine uniquely"
+soot,18.0,soot contained in the oil in percent
+sulfation,19.0,sulfation of the oil in percent
+vi100,14.38,viscosity at 100 degrees in kg/(m*s)
+water,"<0,1%","water contained in the oil, categorical"
+al,3.0,aluminium in ppm
+ba,1.0,barium in ppm
+ca,2985.0,calcium in ppm
+cr,1.0,chromium in ppm
+cu,2.0,copper in ppm
+fe,13.0,iron in ppm
+k,0.0,potassium in ppm
+mg,794.0,magnesium in ppm
+mo,21.0,molybdenum in ppm
+na,3.0,sodium in ppm
+ni,0.0,nickel in ppm
+p,1343.0,phosphorus in ppm
+pb,0.0,lead in ppm
+si,6.0,silicon in ppm
+sn,0.0,tin in ppm
+zn,1578.0,zinc in ppm
+filter_change,1,"indication of whether the oil filter was changed after taking the sample. (-1=no, 1=yes, 0=unknown)"
+oil_class,15W40,"oil classification, categorical"
+oil_life,500.0,runtime in hours of the machine since the last oil change
+oil_brand,CAT,brand of the oil
+oil_change,-1,"indication of whether the oil filter was changed after taking the sample. (-1=no, 1=yes, 0=unknown)"
+fuel,"0,2%/0%",indicates how much fuel (diesel/bio) is in the oil
+class,2,"classification of the oil sample (1=good, 2=warning, 3=critical)"
+date,16173,"date on which the oil sample was tested in the oil laboratory, format is 'yyccc' where y=year and c=calendar day"
+machine_type,83,"encoded machine_type, i.e. identifies a special type of excavator, dozer, etc."
